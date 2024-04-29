@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **javascript**
 
-- 💬 Ask me about **Html,Css, SQL(basics) and python(Basics).**
+- 💬 Ask me about **Html,Css, SQL(basics), SwiftUI(basics) and python(Basics).**
 
 - 📫 How to reach me **vanshsharma5503@gmail.com**
 
